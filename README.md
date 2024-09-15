@@ -1,5 +1,6 @@
-### Hi there 👋, Im Kawser
-#### A passionate Data Scientist who likes to do cool stuff
+            ### Hi there 👋, Im Kawser
+
+### A passionate Data Scientist who likes to do cool stuff
 
 ![image title](https://rushter.com/counter.svg)
 
@@ -14,9 +15,6 @@ Skills: Python / SQL / R / Power BI / Machine Learning / Deep Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserayoub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawserayoub&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/kawserayoub)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kawserayoub)  
 
 
