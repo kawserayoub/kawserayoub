@@ -1,8 +1,8 @@
-            ### Hi there 👋, Im Kawser
+### Hi there 👋, Im Kawser
 
 ### A passionate Data Scientist who likes to do cool stuff
 
-![image title](https://rushter.com/counter.svg)
+![image title](https://kawser-ayoub.com/counter.svg)
 
 🌱 I’m currently studying Data Science in Stockholm
 
