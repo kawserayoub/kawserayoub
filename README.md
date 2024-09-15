@@ -8,7 +8,8 @@
 
 - 📫 How to reach me: kawser.ayoub@hotmail.com
 
-### My website: 🌐 https://kawserayoub.netlify.app/
+- 🌐 My Website: [kawserayoub.netlify.app](https://kawserayoub.netlify.app)
+
 
 ### My Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
