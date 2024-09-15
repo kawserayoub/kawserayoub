@@ -1,6 +1,6 @@
-# Hi👋, Im Kawser
+<h1 align="center">Hi👋, I'm Kawser</h1>
 
-### A passionate Data Scientist who likes to do cool stuff
+<h3 align="center">A passionate Data Scientist who likes to do cool stuff</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=blue)
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: kawser.ayoub@hotmail.com
 
-### Skills: 
+### My Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -17,12 +17,9 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kawserayoub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kawser-ayoub/)  
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' height='30'>](https://www.linkedin.com/in/kawser-ayoub/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserayoub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawserayoub&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kawserayoub)  
-
-
