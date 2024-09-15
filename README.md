@@ -19,10 +19,14 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=keras&logoColor=white)
 
-### Connect with me:
+### Connect with me: 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' height='30'>](https://www.linkedin.com/in/kawser-ayoub/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserayoub)](https://github.com/anuraghazra/github-readme-stats)
+![kawserayoub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserayoub&theme=flag-india&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawserayoub&show_icons=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kawserayoub)  
+![kawserayoub's Stats](https://github-readme-stats.vercel.app/api?username=kawserayoub&theme=flag-india&show_icons=true&hide_border=true&count_private=false)
+
+![kawserayoub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawserayoub&theme=flag-india&hide_border=true)
+
+
+ 
