@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: kawser.ayoub@hotmail.com
 
-- 🌐 My Website: [kawserayoub.netlify.app](https://kawserayoub.netlify.app)
+- 🌐 Portfolio: [kawserayoub.netlify.app](https://kawserayoub.netlify.app)
 
 
 ### My Tech Stack: 
