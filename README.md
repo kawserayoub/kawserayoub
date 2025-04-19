@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data Scientist who likes to do cool stuff</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=pink)
+![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=green)
 
 - 🌱 I’m currently studying Data Science in Stockholm
 
