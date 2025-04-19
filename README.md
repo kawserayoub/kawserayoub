@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate Data Scientist who likes to do cool stuff</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=pink)
 
 - 🌱 I’m currently studying Data Science in Stockholm
 
 - 📫 How to reach me: kawser.ayoub@hotmail.com
 
-- 🌐 Portfolio: [kawserayoub.netlify.app](https://kawserayoub.netlify.app)
+- 🌐 Portfolio: https://kawsera.netlify.app/
 
 
 ### My Tech Stack: 
