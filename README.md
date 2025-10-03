@@ -1,11 +1,19 @@
 <h1 align="center">Hi👋, I'm Kawser</h1>
 
-<h3 align="center">A passionate Data Scientist who likes to do cool stuff</h3>
+<h3 align="center">Cybersecurity & SOC Analyst Student | ex-Data Science</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=green)
 
-- 🌱 I’m currently studying Data Science in Stockholm
+- 🎓 **Education**  
+  - 🔐 *Cybersecurity / SOC Analyst* — KYH, 2025–2027
+  -  📊 *Data Science* — EC Utbildning, 2023–2025  
 
+- 🌱 **Current focus**  
+  - Threat detection & SOC workflows  
+  - PowerShell automation & Windows hardening  
+  - Virtualization (Hyper-V), IT lab environments  
+  - Linux & network security fundamentals
+ 
 - 📫 How to reach me: kawser.ayoub@hotmail.com
 
 - 🌐 Portfolio: https://kawsera.netlify.app/
