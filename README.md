@@ -5,8 +5,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=green)
 
 ### 🎓 Education
-- 🔐 **Cybersecurity / SOC Analyst** - KYH (2025 – 2027)  
-- 📊 **Data Science** - EC Utbildning (2023 – 2025)
+- 🔐 **Cybersecurity / SOC Analyst** - KYH (2025 - 2027)  
+- 📊 **Data Science** - EC Utbildning (2023 - 2025)
 
 ### 🌱 Current Focus
 - Threat detection & SOC workflows  
@@ -16,7 +16,7 @@
 
 ### 💼 Experience
 **Data Scientist / Low-code Developer - [almanak.ai](https://almanak.ai/)**  
-*Nov 2024 – Apr 2025 · Remote (Skåne, Sweden)*  
+*Nov 2024 - Apr 2025 · Remote (Skåne, Sweden)*  
 - Built 20+ automation workflows with **n8n**  
 - Developed a **botanical AI system** & integrated external APIs  
 - Migrated data from **Google Sheets → SQL** for scalability  
