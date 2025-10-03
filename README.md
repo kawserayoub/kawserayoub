@@ -4,22 +4,30 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=green)
 
-- 🎓 **Education**  
-  - 🔐 *Cybersecurity / SOC Analyst* — KYH, 2025–2027
-  -  📊 *Data Science* — EC Utbildning, 2023–2025  
+### 🎓 Education
+- 🔐 **Cybersecurity / SOC Analyst** - KYH (2025 – 2027)  
+- 📊 **Data Science** - EC Utbildning (2023 – 2025)
 
-- 🌱 **Current focus**  
-  - Threat detection & SOC workflows  
-  - PowerShell automation & Windows hardening  
-  - Virtualization (Hyper-V), IT lab environments  
-  - Linux & network security fundamentals
- 
-- 📫 How to reach me: kawser.ayoub@hotmail.com
+### 🌱 Current Focus
+- Threat detection & SOC workflows  
+- PowerShell automation & Windows hardening  
+- Virtualization (Hyper-V) & IT lab environments  
+- Linux & network security fundamentals  
 
-- 🌐 Portfolio: https://kawsera.netlify.app/
+### 💼 Experience
+**Data Scientist / Low-code Developer - [almanak.ai](https://almanak.ai/)**  
+*Nov 2024 – Apr 2025 · Remote (Skåne, Sweden)*  
+- Built 20+ automation workflows with **n8n**  
+- Developed a **botanical AI system** & integrated external APIs  
+- Migrated data from **Google Sheets → SQL** for scalability  
 
+### 📫 Contact
+- Email: **kawser.ayoub@hotmail.com**  
+- Portfolio: [kawsera.netlify.app](https://kawsera.netlify.app/)
 
 ### My Tech Stack: 
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
