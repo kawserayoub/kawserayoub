@@ -1,24 +1,22 @@
 <h1 align="center">Hi👋, I'm Kawser</h1>
 
-<h3 align="center">Cybersecurity & SOC Analyst Student | ex-Data Science</h3>
+<h3 align="center">Cybersecurity Analyst Student | ex-Data Science</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=kawser-ayoub&color=green)
+
 
 ### 🎓 Education
-- 🔐 **Cybersecurity / SOC Analyst** - KYH (2025 - 2027)  
-- 📊 **Data Science** - EC Utbildning (2023 - 2025)
+- **Cybersecurity / SOC Analyst** - KYH (2025 - 2027)  
+- **Data Science** - EC Utbildning (2023 - 2025)
 
 ### 🌱 Current Focus
-- Threat detection & SOC workflows  
-- PowerShell automation & Windows hardening  
-- Virtualization (Hyper-V) & IT lab environments  
 - Linux & network security fundamentals  
-
+- Virtualization & IT lab environments
+  
 ### 💼 Experience
-**Data Scientist / Low-code Developer - [almanak.ai](https://almanak.ai/)**  
-*Nov 2024 - Apr 2025 · Remote (Skåne, Sweden)*  
+**Data Scientist / Low-code Developer - almanak.ai**  
+Nov 2024 - Apr 2025 · (Skåne, Sweden)  
 - Built 20+ automation workflows with **n8n**  
-- Developed a **botanical AI system** & integrated external APIs  
+- Developed **AI systems** & integrated external APIs  
 - Migrated data from **Google Sheets → SQL** for scalability  
 
 ### 📫 Contact
