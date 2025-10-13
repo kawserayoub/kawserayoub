@@ -36,11 +36,11 @@ Nov 2024 - Apr 2025 · (Skåne, Sweden)
 ### Connect with me: 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn' height='30'>](https://www.linkedin.com/in/kawser-ayoub/)  
 
-![kawser's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawser-a&theme=flag-india&show_icons=true&hide_border=true&layout=compact)
+![kawser's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserayoub&theme=flag-india&show_icons=true&hide_border=true&layout=compact)
 
-![kawser's Stats](https://github-readme-stats.vercel.app/api?username=kawser-a&theme=flag-india&show_icons=true&hide_border=true&count_private=false)
+![kawser's Stats](https://github-readme-stats.vercel.app/api?username=kawserayoub&theme=flag-india&show_icons=true&hide_border=true&count_private=false)
 
-![kawser's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawser-a&theme=flag-india&hide_border=true)
+![kawser's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawserayoub&theme=flag-india&hide_border=true)
 
 
  
