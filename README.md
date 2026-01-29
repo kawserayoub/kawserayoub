@@ -15,11 +15,11 @@
   
 ### 💼 Experience
 **AI Security Specialist - Co-creators**  
-Jan 2026 - ongoing · Part-time · (Remote, Denmark)  
+Part-time · Jan 2026 - ongoing · (Remote, Denmark)  
 **AI Automation Specialist - Co-creators**  
-Nov 2025 - Dec 2025 · Part-time · (Remote, Denmark)   
+Part-time · Nov 2025 - Dec 2025 · (Remote, Denmark)   
 **Data Scientist / AI Automation Specialist - almanak.ai**  
-Nov 2024 - Apr 2025 · Internship · (Skåne, Sweden)  
+Part-time · Nov 2024 - Apr 2025 · (Skåne, Sweden)  
 
 ### 📫 Contact
 - Email: **kawser.ayoub@hotmail.com**  
