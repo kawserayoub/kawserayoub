@@ -1,23 +1,25 @@
 <h1 align="center">Hi👋, I'm Kawser</h1>
 
-<h3 align="center">Cybersecurity Analyst Student | ex-Data Science</h3>
+<h3 align="center">SOC Analyst Student</h3>
 
 
 
 ### 🎓 Education
-- **Cybersecurity / SOC Analyst** - KYH (2025 - 2027)  
+- **SOC/Cybersecurity Analyst** - KYH (2025 - 2027)  
 - **Data Science** - EC Utbildning (2023 - 2025)
 
 ### 🌱 Current Focus
-- Linux & network security fundamentals  
-- Virtualization & IT lab environments
+- Network fundamentals
+- Network security fundamentals
+- Web Security
   
 ### 💼 Experience
-**Data Scientist / Low-code Developer - almanak.ai**  
-Nov 2024 - Apr 2025 · (Skåne, Sweden)  
-- Built 20+ automation workflows with **n8n**  
-- Developed **AI systems** & integrated external APIs  
-- Migrated data from **Google Sheets → SQL** for scalability  
+**AI Security Specialist - Co-creators**  
+Jan 2026 - ongoing · Part-time · (Remote, Denmark)  
+**AI Automation Specialist - Co-creators**  
+Nov 2025 - Dec 2025 · Part-time · (Remote, Denmark)   
+**Data Scientist / AI Automation Specialist - almanak.ai**  
+Nov 2024 - Apr 2025 · Internship · (Skåne, Sweden)  
 
 ### 📫 Contact
 - Email: **kawser.ayoub@hotmail.com**  
